@@ -27,3 +27,5 @@ let obj={
 const myFunction=function(){
     console.log("hello world")
 }
+// Stack Memory-Primitive (Copy) change in copy
+// Heap Memory -Non primitive (Reference)-change in original value
