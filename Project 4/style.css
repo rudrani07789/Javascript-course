@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+    color: white;
+}
+#wrapper{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 50px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
